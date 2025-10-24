@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "Clinica BrIAx | Cutting-edge healthcare",
+    "description": "Clinica BrIAx demo: premium medical care with advanced technology, certified specialists, and human warmth."
+  },
+  "navbar": {
+    "brand": "Clinica BrIAx",
+    "brandAria": "Go to home section",
+    "openMenuAria": "Open navigation menu",
+    "items": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About us"
+    },
+    "contactCta": "Contact",
+    "languageLabel": "Language",
+    "languages": {
+      "en": "English",
+      "es": "Spanish",
+      "pt": "Portuguese"
+    }
+  },
+  "hero": {
+    "heading": "Your health, our",
+    "highlight": "priority",
+    "description": "State-of-the-art medical technology combined with exceptional human care. At Clinica BrIAx, we transform your health experience.",
+    "primaryCta": "Book your appointment",
+    "secondaryCta": "Explore our services",
+    "perks": {
+      "first": "24/7 care",
+      "second": "20+ years of experience"
+    },
+    "imageAlt": "Modern facilities at Clinica BrIAx"
+  },
+  "services": {
+    "heading": "Excellence in",
+    "highlight": "medical services",
+    "description": "We offer a comprehensive medical ecosystem designed for your well-being.",
+    "items": {
+      "cardiology": {
+        "title": "Cardiology",
+        "description": "Comprehensive heart care with advanced diagnostic technology."
+      },
+      "neurology": {
+        "title": "Neurology",
+        "description": "Specialists in brain health and nervous system care."
+      },
+      "generalMedicine": {
+        "title": "Primary care",
+        "description": "Complete medical attention for the entire family."
+      },
+      "checkups": {
+        "title": "Preventive check-ups",
+        "description": "Personalized preventive medicine programs."
+      }
+    }
+  },
+  "whyUs": {
+    "heading": "Why trust",
+    "highlight": "Clinica BrIAx?",
+    "description": "We don't just treat symptoms. We build lasting relationships based on trust, innovation, and proven results.",
+    "features": {
+      "experts": {
+        "title": "Elite professionals",
+        "description": "Specialized physicians with international certifications and decades of life-saving experience."
+      },
+      "technology": {
+        "title": "Cutting-edge technology",
+        "description": "Latest-generation medical equipment for precise diagnoses and effective treatments."
+      },
+      "personalizedCare": {
+        "title": "Personalized care",
+        "description": "Every patient is unique. We design tailored treatment plans for your needs."
+      }
+    }
+  },
+  "stats": {
+    "patients": {
+      "number": "50K+",
+      "label": "Patients assisted"
+    },
+    "satisfaction": {
+      "number": "98%",
+      "label": "Satisfaction rate"
+    },
+    "availability": {
+      "number": "24/7",
+      "label": "Care availability"
+    },
+    "experience": {
+      "number": "20+",
+      "label": "Years of experience"
+    }
+  },
+  "contact": {
+    "heading": "Schedule your",
+    "highlight": "consultation today",
+    "description": "We are ready to care for you. Complete the form and we will contact you in less than 24 hours.",
+    "info": {
+      "phone": {
+        "title": "Phone",
+        "value": "+1 (555) 123-4567"
+      },
+      "email": {
+        "title": "Email",
+        "value": "contact@clinicabriax.com"
+      },
+      "location": {
+        "title": "Location",
+        "value": "123 Main Avenue, City"
+      }
+    },
+    "form": {
+      "nameLabel": "Full name",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@email.com",
+      "phoneLabel": "Phone",
+      "phonePlaceholder": "+1 (555) 123-4567",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "submit": "Send message",
+      "successTitle": "Message sent",
+      "successDescription": "We will contact you in less than 24 hours."
+    }
+  },
+  "footer": {
+    "description": "Caring for your health with excellence, technology, and human warmth.",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "followUsTitle": "Follow us",
+    "serviceLinks": {
+      "cardiology": "Cardiology",
+      "neurology": "Neurology",
+      "generalMedicine": "Primary care",
+      "checkups": "Preventive check-ups"
+    },
+    "companyLinks": {
+      "about": "About us",
+      "team": "Medical team",
+      "facilities": "Facilities",
+      "blog": "Blog"
+    },
+    "rights": "© {year} Clinica BrIAx. All rights reserved."
+  }
+}

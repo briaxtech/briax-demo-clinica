@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "Clinica BrIAx | Saúde de ponta",
+    "description": "Demo do site Clinica BrIAx: atendimento médico premium com tecnologia avançada, especialistas certificados e acolhimento humano."
+  },
+  "navbar": {
+    "brand": "Clinica BrIAx",
+    "brandAria": "Ir para o início",
+    "openMenuAria": "Abrir menu de navegação",
+    "items": {
+      "home": "Início",
+      "services": "Serviços",
+      "about": "Sobre nós"
+    },
+    "contactCta": "Contato",
+    "languageLabel": "Idioma",
+    "languages": {
+      "en": "Inglês",
+      "es": "Espanhol",
+      "pt": "Português"
+    }
+  },
+  "hero": {
+    "heading": "Sua saúde, nossa",
+    "highlight": "prioridade",
+    "description": "Tecnologia médica de ponta combinada com um cuidado humano excepcional. Na Clinica BrIAx, transformamos sua experiência de saúde.",
+    "primaryCta": "Agende sua consulta",
+    "secondaryCta": "Conheça nossos serviços",
+    "perks": {
+      "first": "Atendimento 24/7",
+      "second": "+20 anos de experiência"
+    },
+    "imageAlt": "Instalações modernas da Clinica BrIAx"
+  },
+  "services": {
+    "heading": "Serviços de",
+    "highlight": "excelência médica",
+    "description": "Oferecemos um ecossistema completo de atendimento médico pensado para o seu bem-estar.",
+    "items": {
+      "cardiology": {
+        "title": "Cardiologia",
+        "description": "Cuidado integral do coração com tecnologia de diagnóstico avançada."
+      },
+      "neurology": {
+        "title": "Neurologia",
+        "description": "Especialistas em saúde cerebral e sistema nervoso."
+      },
+      "generalMedicine": {
+        "title": "Medicina geral",
+        "description": "Atendimento médico completo para toda a família."
+      },
+      "checkups": {
+        "title": "Check-ups preventivos",
+        "description": "Programas personalizados de medicina preventiva."
+      }
+    }
+  },
+  "whyUs": {
+    "heading": "Por que confiar na",
+    "highlight": "Clinica BrIAx?",
+    "description": "Não tratamos apenas sintomas. Construímos relações duradouras baseadas em confiança, inovação e resultados comprovados.",
+    "features": {
+      "experts": {
+        "title": "Profissionais de elite",
+        "description": "Médicos especializados com certificações internacionais e anos de experiência salvando vidas."
+      },
+      "technology": {
+        "title": "Tecnologia de ponta",
+        "description": "Equipamentos médicos de última geração para diagnósticos precisos e tratamentos eficazes."
+      },
+      "personalizedCare": {
+        "title": "Atendimento personalizado",
+        "description": "Cada paciente é único. Criamos planos de tratamento sob medida para suas necessidades."
+      }
+    }
+  },
+  "stats": {
+    "patients": {
+      "number": "50K+",
+      "label": "Pacientes atendidos"
+    },
+    "satisfaction": {
+      "number": "98%",
+      "label": "Índice de satisfação"
+    },
+    "availability": {
+      "number": "24/7",
+      "label": "Atendimento disponível"
+    },
+    "experience": {
+      "number": "20+",
+      "label": "Anos de experiência"
+    }
+  },
+  "contact": {
+    "heading": "Agende sua",
+    "highlight": "consulta hoje",
+    "description": "Estamos prontos para cuidar de você. Preencha o formulário e entraremos em contato em até 24 horas.",
+    "info": {
+      "phone": {
+        "title": "Telefone",
+        "value": "+55 (11) 5555-1234"
+      },
+      "email": {
+        "title": "Email",
+        "value": "contato@clinicabriax.com"
+      },
+      "location": {
+        "title": "Localização",
+        "value": "Av. Principal 123, Cidade"
+      }
+    },
+    "form": {
+      "nameLabel": "Nome completo",
+      "namePlaceholder": "Seu nome",
+      "emailLabel": "Email",
+      "emailPlaceholder": "voce@email.com",
+      "phoneLabel": "Telefone",
+      "phonePlaceholder": "+55 (11) 5555-1234",
+      "messageLabel": "Mensagem",
+      "messagePlaceholder": "Conte como podemos ajudar...",
+      "submit": "Enviar mensagem",
+      "successTitle": "Mensagem enviada",
+      "successDescription": "Entraremos em contato em menos de 24 horas."
+    }
+  },
+  "footer": {
+    "description": "Cuidando da sua saúde com excelência, tecnologia e acolhimento humano.",
+    "servicesTitle": "Serviços",
+    "companyTitle": "Empresa",
+    "followUsTitle": "Siga-nos",
+    "serviceLinks": {
+      "cardiology": "Cardiologia",
+      "neurology": "Neurologia",
+      "generalMedicine": "Medicina geral",
+      "checkups": "Check-ups"
+    },
+    "companyLinks": {
+      "about": "Sobre nós",
+      "team": "Equipe médica",
+      "facilities": "Instalações",
+      "blog": "Blog"
+    },
+    "rights": "© {year} Clinica BrIAx. Todos os direitos reservados."
+  }
+}

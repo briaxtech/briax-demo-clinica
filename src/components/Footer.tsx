@@ -35,7 +35,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center gap-3">
               <Image
-                src="/logo.png"
+                src="/briax-logo-circle.png"
                 alt={navbarT("brand")}
                 width={48}
                 height={48}

@@ -120,17 +120,17 @@ const Header = () => {
             onClick={() => scrollTo("#home")}
             className="flex items-center gap-3 text-left transition-opacity hover:opacity-80"
             aria-label={t("brandAria")}
-          >
-            <Image
-              src="/logo.png"
-              alt={t("brand")}
-              width={48}
-              height={48}
-              className="h-12 w-12"
-              priority
-            />
-            <span className="text-2xl font-bold text-foreground">{t("brand")}</span>
-          </button>
+      >
+        <Image
+          src="/logo.png"
+          alt={t("brand")}
+          width={282}
+          height={135}
+          className="h-12 w-auto"
+          priority
+        />
+        <span className="text-2xl font-bold text-foreground">{t("brand")}</span>
+      </button>
 
           <nav className="hidden items-center gap-6 md:flex">
             {NAV_ITEMS.map(({ key, href }) => (
@@ -153,7 +153,7 @@ const Header = () => {
 
           <Sheet open={open} onOpenChange={setOpen}>
             <SheetTrigger asChild className="md:hidden">
-              <Button variant="ghost" size="icon" aria-label={t("openMenuAria")}>
+              <Button variant="ghostPrimary" size="icon" aria-label={t("openMenuAria")}>
                 <Menu className="h-6 w-6" />
               </Button>
             </SheetTrigger>

@@ -20,6 +20,16 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Environment Variables
+
+Create a `.env.local` file in the project root to expose the public variables used on the client:
+
+```bash
+NEXT_PUBLIC_ELEVEN_AGENT_ID=agent_3801k8v095fnf50vsacwhknznmw9
+```
+
+The `NEXT_PUBLIC_ELEVEN_AGENT_ID` value configures the ElevenLabs voice assistant widget rendered in the interface.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
